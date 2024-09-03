@@ -5,3 +5,9 @@ Dev Repo: https://github.com/eqan/open-compute
 2. Cloud Infrastructure Architecture: https://youtu.be/4RJKGy-cGvA?si=bKHv_WnP5cIwuiX4
 3. Tools Analysis And Deep Dive: https://youtu.be/tBzDitIVZ9A?si=ZRf0vx2FhhMw_hi-
 4. ERD Diagram Part 1: https://youtu.be/6ctqlkJ6ChM?si=1I0tJ3AYBDHHodtb
+
+
+... Checkout the full playlist:
+
+   
+https://youtube.com/playlist?list=PLVnljYmEmbOecIhy_68-xPtQykueUTLCU&si=EqGZuBxqT7jhrErE
